@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+  background-image: url('789123.avif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 
 body {
   font-family: Arial, sans-serif;
@@ -186,11 +192,7 @@ footer {
   }
 }
 
-body {
-  background-image: url('789123.avif');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
+
+
 
 
