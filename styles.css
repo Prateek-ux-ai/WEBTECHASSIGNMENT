@@ -187,8 +187,9 @@ footer {
 }
 
 body {
-  background-image: url('123456.jpg');
+  background-image: url('123456.avif');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
+
