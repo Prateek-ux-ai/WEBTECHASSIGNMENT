@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url('789123.avif');
+  background-image: url('789123.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -191,6 +191,7 @@ footer {
     gap: 10px;
   }
 }
+
 
 
 
